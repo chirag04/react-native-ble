@@ -31,10 +31,10 @@
   "homepage": "https://github.com/jacobrosenthal/react-native-ble",
   "scripts": {},
   "dependencies": {
-    "noble": "^1.5.0",
+    "buffer": "^4.9.1",
     "debug": "^2.2.0",
-    "buffer": "^4.6.0",
-    "events": "^1.1.0",
+    "events": "^1.1.1",
+    "noble": "git+https://github.com/sandeepmistry/noble.git",
     "util": "^0.10.3"
   },
   "license": "MIT"
